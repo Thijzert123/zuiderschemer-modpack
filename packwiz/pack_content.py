@@ -15,7 +15,6 @@
         }},
         {"id": "moreculling"},
         {"id": "modmenu"},
-        {"id": "iris"},
         {"id": "dynamic-fps"},
         {"id": "sodium"},
         {"id": "zoomify"},
