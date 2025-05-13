@@ -1,6 +1,5 @@
 # ZuiderSchemer Pack
-
-Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) server.
+Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) server. Includes performance mods, Xaero's mods and some other minor mods to make your Minecraft experience better.
 
 ## Content
 |                                      Name                                      |1.21.5|
