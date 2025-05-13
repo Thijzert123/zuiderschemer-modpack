@@ -40,7 +40,6 @@
         {"id": "3dskinlayers"},
         {"id": "xaeros-world-map"},
         {"id": "xaeros-minimap"},
-        {"id": "clumps"},
         {"id": "improved-sign-editing"},
         {"id": "craftpresence"},
         {"id": "krypton"},
