@@ -5,6 +5,10 @@ file = "config/yosbr/credits.txt"
 hash = "d55afc739e98223c3a0f8333fd881e037ebc2afc40dcf90d7b5bdb7818ec3e92"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "acb085a16ef771eea10af2bbda8a55ae4732131e1519c725107ff895e6721d0a"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9c5ffe0f93aec9ebca86a4e5171ccb51e283849eef1719c995d19c2480e2d07c"
 metafile = true
