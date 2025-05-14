@@ -11,7 +11,6 @@ Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) se
 |               [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)              |   ✅  |
 |              [Client Sort](https://modrinth.com/project/K0AkAin6)              |   ✅  |
 |            [Cloth Config API](https://modrinth.com/project/9s6osm5g)           |   ✅  |
-|                 [Clumps](https://modrinth.com/project/Wnxd13zP)                |   ✅  |
 |               [Collective](https://modrinth.com/project/e0M1UDsY)              |   ✅  |
 |               [Continuity](https://modrinth.com/project/1IjD5062)              |   ✅  |
 |             [CraftPresence](https://modrinth.com/project/DFqQfIBR)             |   ✅  |
@@ -26,6 +25,7 @@ Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) se
 |        [Gamma Utils (Fullbright)](https://modrinth.com/project/wdLuzzEP)       |   ✅  |
 |            [ImmediatelyFast](https://modrinth.com/project/5ZwdcRci)            |   ✅  |
 |         [Improved Sign Editing](https://modrinth.com/project/EWQifKYI)         |   ✅  |
+|              [Iris Shaders](https://modrinth.com/project/YL57xq9U)             |   ✅  |
 |                [Krypton](https://modrinth.com/project/fQEb0iXm)                |   ✅  |
 |           [LambDynamicLights](https://modrinth.com/project/yBW8D80W)           |   ✅  |
 |                [Lithium](https://modrinth.com/project/gvQqBUqZ)                |   ✅  |
