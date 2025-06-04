@@ -1,5 +1,8 @@
 # ZuiderSchemer Pack
-Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) server. Includes performance mods, Xaero's mods and some other minor mods to make your Minecraft experience better.
+Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) server. It adds:
+- Performance mods: Sodium, Lithium, etc.
+- Client-side tweaks: Client Sort, Mouse Tweaks, Symbol Chat, Scribble, etc.
+- Mods that are specifically selected for the ZuiderSchemer Minecraft server: EmoteCraft, Fast Trading, etc.
 
 ## Content
 |                                      Name                                      |1.21.5|
