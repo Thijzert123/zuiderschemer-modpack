@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "2efb612e1d88e0d33b8717464ce8123356fbb570604c699ba8c6765a6a5a2ed2"
+hash = "f72074204e94a7a72171cdbef5c41fece7e89081390e17ca37c8d2bfc31595ff"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "a3e7e7b34dce944ad4e24370202bbd7c42335cfca76a156f3925da348eb67f56"
+hash = "772b4329e035c8b0dbb728ab5c005bca5b5ea398880f7ab2edbec8a1414e8347"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
+hash = "09555e2480bda5f9f3dc3c2636843470491c147cd0bd32a48147af0efe1e607e"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "46ab58f542323ab1bc92744d9ddd6ff0ba277a5c6250730bb88ba6ff2e101da7"
+hash = "3556431e076004f61282c316088b95bb99f8c26136c1f2aee4fc1577f33479dc"
 metafile = true
 
 [[files]]
