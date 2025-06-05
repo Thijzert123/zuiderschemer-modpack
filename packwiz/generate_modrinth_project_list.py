@@ -6,7 +6,7 @@ from py_markdown_table.markdown_table import markdown_table # pip install py-mar
 
 BASE_MODRINTH_API_URL = "https://api.modrinth.com/v2"
 BASE_MODRINTH_WEBSITE_URL = "https://modrinth.com"
-CLIENT_PLUS_ID = "zuiderschemer"
+MODPACK_ID = "zuiderschemer"
 OUTPUT_FILE = "modrinth_project_list.md"
 
 CHECKMARK_ICON = "✅"
@@ -32,8 +32,8 @@ def get_project_versions(project_id):
 
 @cache
 def get_newest_version_for_each_game_version():
-    project_game_versions = get_project_game_versions(CLIENT_PLUS_ID)
-    project_versions = get_project_versions(CLIENT_PLUS_ID)
+    project_game_versions = get_project_game_versions(MODPACK_ID)
+    project_versions = get_project_versions(MODPACK_ID)
     processed_game_versions = {}
     for project_version in project_versions:
         version_game_versions = project_version["game_versions"]
@@ -48,6 +48,11 @@ def get_newest_version_for_each_game_version():
 def get_dependencies_for_version(version_id):
     url = f"{BASE_MODRINTH_API_URL}/version/{version_id}"
     return get_request_json(url)["dependencies"]
+
+@cache
+def get_project_categories(project_id):
+    url = f"{BASE_MODRINTH_API_URL}/project/{project_id}"
+    return get_request_json(url)["categories"]
 
 @cache
 def get_project_name(project_id):
@@ -73,6 +78,9 @@ def get_project_dict():
                 continue
 
             if not version_dependency["dependency_type"] == "embedded": # skip dependencies that are not embedded
+                continue
+
+            if "library" in get_project_categories(version_dependency_project_id): # skip libraries
                 continue
 
             project_link = get_project_markdown_link(version_dependency_project_id)
