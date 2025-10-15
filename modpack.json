@@ -1,0 +1,33 @@
+{
+	"pack_format": 1,
+	"name": "ZuiderSchemer Pack",
+	"summary": "Performance pack that adds essential client-side tweaks optimized for multiplayer",
+	"author": "Thijzert",
+	"require_all": true,
+	"auto_dependencies": true,
+	"branches": [
+		"1.21.10"
+	],
+	"projects": {
+		"3dskinlayers": {},
+		"appleskin": {},
+		"badoptimizations": {},
+		"chat-heads": {},
+		"continuity": {},
+		"clientsort": {},
+		"mod-loading-screen": {},
+		"lithium": {},
+		"lambdynamiclights": {},
+		"krypton": {},
+		"iris": {},
+		"improved-sign-editing": {},
+		"immediatelyfast": {},
+		"gamma-utils": {},
+		"ferrite-core": {},
+		"fast-trading": {},
+		"entityculling": {},
+		"dynamic-fps": {},
+		"cubes-without-borders": {},
+		"craftpresence": {}
+	}
+}
