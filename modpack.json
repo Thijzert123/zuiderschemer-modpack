@@ -28,6 +28,25 @@
 		"entityculling": {},
 		"dynamic-fps": {},
 		"cubes-without-borders": {},
-		"craftpresence": {}
+		"craftpresence": {},
+		"modmenu": {},
+		"modelfix": {},
+		"moreculling": {},
+		"mouse-tweaks": {},
+		"no-resource-pack-warnings": {},
+		"noisium": {},
+		"optigui": {},
+		"recolourful-containers-gui": {},
+		"redstone-tweaks": {},
+		"reeses-sodium-options": {},
+		"scribble": {},
+		"shulkerboxtooltip": {},
+		"simple-voice-chat": {},
+		"sodium-extra": {},
+		"sodium": {},
+		"symbol-chat": {},
+		"xaeros-minimap": {},
+		"xaeros-world-map": {},
+		"zoomify": {}
 	}
 }
