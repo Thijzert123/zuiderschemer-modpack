@@ -6,7 +6,7 @@
 	"require_all": true,
 	"auto_dependencies": true,
 	"branches": [
-		"1.21.10"
+		"26.1.2"
 	],
 	"projects": {
 		"3dskinlayers": {},
@@ -30,11 +30,9 @@
 		"cubes-without-borders": {},
 		"craftpresence": {},
 		"modmenu": {},
-		"modelfix": {},
 		"moreculling": {},
 		"mouse-tweaks": {},
 		"no-resource-pack-warnings": {},
-		"noisium": {},
 		"optigui": {},
 		"recolourful-containers-gui": {},
 		"redstone-tweaks": {},
@@ -48,6 +46,7 @@
 		"xaeros-minimap": {},
 		"xaeros-world-map": {},
 		"zoomify": {},
-		"better-stats": {}
+		"better-stats": {},
+    "bundles-beyond": {}
 	}
 }
