@@ -158,6 +158,10 @@
 			"id": "VhUy58Cq"
 		},
 		{
+			"name": "Controlify (Controller support)",
+			"id": "DOUdJVEm"
+		},
+		{
 			"name": "Fabric API",
 			"id": "P7dR8mSH"
 		},
@@ -775,6 +779,21 @@
 				"https://cdn.modrinth.com/data/VhUy58Cq/versions/pMFGoUw8/bundles-beyond-1.6.1%2B26.1%2Bfabric.jar"
 			],
 			"fileSize": 208293
+		},
+		{
+			"path": "mods/controlify-3.0.1+26.1-fabric.jar",
+			"hashes": {
+				"sha1": "ea8b836a6425c5361062fe5f36d692a2ac50fa5d",
+				"sha512": "e4831fca00e0ea2fd8bc9d0a6fe76a226e1f1e3b7403398c318ca03cd26d05808b4e20957eae0ab8315fd0b1e2a6788e1ad6c7f715fc3f374499f2975e1a6e5e"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/DOUdJVEm/versions/g2vgDVPC/controlify-3.0.1%2B26.1-fabric.jar"
+			],
+			"fileSize": 7366245
 		},
 		{
 			"path": "mods/fabric-api-0.149.1+26.1.2.jar",
