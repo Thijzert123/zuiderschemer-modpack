@@ -17,6 +17,7 @@ Lightweight modpack for everyone on the ZuiderSchemer (English: SouthernDawn) se
 |[Cloth Config API](https://modrinth.com/project/9s6osm5g)|
 |[Collective](https://modrinth.com/project/e0M1UDsY)|
 |[Continuity](https://modrinth.com/project/1IjD5062)|
+|[Controlify (Controller support)](https://modrinth.com/project/DOUdJVEm)|
 |[CraftPresence](https://modrinth.com/project/DFqQfIBR)|
 |[Cubes Without Borders](https://modrinth.com/project/ETlrkaYF)|
 |[Dynamic FPS](https://modrinth.com/project/LQ3K71Q1)|
