@@ -162,6 +162,10 @@
 			"id": "DOUdJVEm"
 		},
 		{
+			"name": "Emotecraft",
+			"id": "pZ2wrerK"
+		},
+		{
 			"name": "Fabric API",
 			"id": "P7dR8mSH"
 		},
@@ -192,6 +196,10 @@
 		{
 			"name": "TCDCommons API",
 			"id": "Eldc1g37"
+		},
+		{
+			"name": "Player Animation Library",
+			"id": "ha1mEyJS"
 		}
 	],
 	"files": [
@@ -301,19 +309,19 @@
 			"fileSize": 1288845
 		},
 		{
-			"path": "mods/lithium-fabric-0.24.2+mc26.1.2.jar",
+			"path": "mods/lithium-fabric-0.24.4+mc26.1.2.jar",
 			"hashes": {
-				"sha1": "a2575886c93255a73e5c583e89332b8bd56023d3",
-				"sha512": "9231ad05667d4eef0348c700bf5160929e0b723d9e145fd97c7fcef9387ac2e6d524fb15d99f47f8f838f1d235324fd750cdcb6603b63aab6085d79fbeaab31b"
+				"sha1": "4f0a2c4ebab06e1ccc65356605c278ab8cfc29f8",
+				"sha512": "5d439660968bc06deea62a3b76ce46efa6907c460602d6e6d70fd5078a22f41acbca5d1177ee8f73a354a59ca3981f33ee20dafddffbf41ff0b4bfbfc657b6ca"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/gvQqBUqZ/versions/R7MxYvuW/lithium-fabric-0.24.2%2Bmc26.1.2.jar"
+				"https://cdn.modrinth.com/data/gvQqBUqZ/versions/rzrH7czY/lithium-fabric-0.24.4%2Bmc26.1.2.jar"
 			],
-			"fileSize": 882624
+			"fileSize": 895424
 		},
 		{
 			"path": "mods/lambdynamiclights-4.10.2+26.1.2.jar",
@@ -451,19 +459,19 @@
 			"fileSize": 1582129
 		},
 		{
-			"path": "mods/dynamic-fps-3.11.6+minecraft-26.1.0-fabric.jar",
+			"path": "mods/dynamic-fps-3.11.7+minecraft-26.1.0-fabric.jar",
 			"hashes": {
-				"sha1": "66f8cc53a00be11374fc4cdd33ac909e90eb54f3",
-				"sha512": "5bbe6880c5d9e3c073c422528ada2b947a9cfc7108dcaa16bff288463de7f708d7ad02ea2d53f03707d5d6df374a2f110d323fc18315c3ee34c13883fc442370"
+				"sha1": "2ed66a7f5cf81c8f4b17a551a1f7371ef99a45f7",
+				"sha512": "5feb34934f1f20d0fe65546f65084e9c59ed0ec8e9e80e91dd3ed80dbfc70212bf8cf31f078dc9e7a429edbe5f63774b200c8bd50c8726c4bcd9c74d9b696ab5"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/LQ3K71Q1/versions/zGhSzRSB/dynamic-fps-3.11.6%2Bminecraft-26.1.0-fabric.jar"
+				"https://cdn.modrinth.com/data/LQ3K71Q1/versions/HV67Kt1R/dynamic-fps-3.11.7%2Bminecraft-26.1.0-fabric.jar"
 			],
-			"fileSize": 183367
+			"fileSize": 187418
 		},
 		{
 			"path": "mods/cwb-4.0.5+26.1.jar",
@@ -646,19 +654,19 @@
 			"fileSize": 388301
 		},
 		{
-			"path": "mods/voicechat-fabric-2.6.17+26.1.2.jar",
+			"path": "mods/voicechat-fabric-2.6.18+26.1.2.jar",
 			"hashes": {
-				"sha1": "ce2569566a0ae5daf620fa093b7a66c39837d6a5",
-				"sha512": "1eb687a5210e7e15887e84a93195dd8ebcf45d85a2b657d27c711ad01ed8e9096f499fcb84d6564854989ed2c13b6a800665fbb382229977d1125e0d3eb5a836"
+				"sha1": "bc354f3e81f3a0ef5fe5ad22bbbdf26199d353cd",
+				"sha512": "9d9f38185c66fc57f03363a37d4559e58442bccb27414a4bd7c5a2b8bb046813afbcdf1bf6279b22f941f9cb4d2ed9d5e6dc4929714e73ae914a03557fb087af"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/9eGKb6K1/versions/gVPjsMto/voicechat-fabric-2.6.17%2B26.1.2.jar"
+				"https://cdn.modrinth.com/data/9eGKb6K1/versions/DpT86E4Q/voicechat-fabric-2.6.18%2B26.1.2.jar"
 			],
-			"fileSize": 5509570
+			"fileSize": 5510314
 		},
 		{
 			"path": "mods/sodium-extra-fabric-0.8.7+mc26.1.1.jar",
@@ -796,19 +804,34 @@
 			"fileSize": 7366245
 		},
 		{
-			"path": "mods/fabric-api-0.149.1+26.1.2.jar",
+			"path": "mods/emotecraft-for-MC26.1.2-3.3.0-a.build.150.jar",
 			"hashes": {
-				"sha1": "f07ace934b02896a8b77727efd03ce2ad32dc5da",
-				"sha512": "47ffa18369260c88ea847f6694ccb431a5aa9051c64e8d361186a767bb762dd9fcfbf4742ac65505eb60862900a1a3f1490994e7435376607de811eab8be4461"
+				"sha1": "cba705ebb4dcbcffc0165593fe76a1002599abf7",
+				"sha512": "26aaf49e399a10ae1b54bb14887a37f52a2101c8d5f97bc6d252bab854f0f2dff820bf968d3260e52c306a027876e05afed205103a39519f8dff9176b686acf1"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/P7dR8mSH/versions/BLz7ETCw/fabric-api-0.149.1%2B26.1.2.jar"
+				"https://cdn.modrinth.com/data/pZ2wrerK/versions/ZkP5YEad/emotecraft-for-MC26.1.2-3.3.0-a.build.150.jar"
 			],
-			"fileSize": 2493299
+			"fileSize": 913957
+		},
+		{
+			"path": "mods/fabric-api-0.150.0+26.1.2.jar",
+			"hashes": {
+				"sha1": "1389f2a2bf506996be33ae8633ee25472ad8d9c2",
+				"sha512": "238c793b720ed21d2d5b564eca88c714cf2188f7b0fb1fd30864660f80901e2b4dad273994b6f77de3c0aa365f930ed8aaccffac49b36c6456b153b52d5d21dc"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/P7dR8mSH/versions/E1mjhYMF/fabric-api-0.150.0%2B26.1.2.jar"
+			],
+			"fileSize": 2496495
 		},
 		{
 			"path": "mods/cloth-config-26.1.154.jar",
@@ -901,19 +924,34 @@
 			"fileSize": 1117278
 		},
 		{
-			"path": "mods/tcdcommons-5.3.0+fn-26.1.jar",
+			"path": "mods/tcdcommons-5.3.1+fn-26.1.jar",
 			"hashes": {
-				"sha1": "a0d6f929a42af79f7ba92499e7d72d6a9a3538b5",
-				"sha512": "db06a919680dfd4516ab8244efb1e02a55470cfb3b25f2d5179888fb3c9be7832844f9ed9efd9e1c6c054f18858f210099b1a07e1b5ae4c8df0583d77bf07eac"
+				"sha1": "99873b815f7e94b157b257236fd447b071f8eaf2",
+				"sha512": "9b7bce376d56fc8c1044e53828666b929a1f81c63c465af2ef2a85892d7c2b34575e5b2219f5033e31f7767fb64522744908f5b7bcd58ff8e72d08a26fdb0b23"
 			},
 			"env": {
 				"client": "required",
 				"server": "required"
 			},
 			"downloads": [
-				"https://cdn.modrinth.com/data/Eldc1g37/versions/ppnp3shz/tcdcommons-5.3.0%2Bfn-26.1.jar"
+				"https://cdn.modrinth.com/data/Eldc1g37/versions/H24c2CiG/tcdcommons-5.3.1%2Bfn-26.1.jar"
 			],
-			"fileSize": 527861
+			"fileSize": 527893
+		},
+		{
+			"path": "mods/PlayerAnimationLibMerged-1.2.3+mc.26.1.jar",
+			"hashes": {
+				"sha1": "f5c06fbc02f27bb700fdca5e3242000e04772b1e",
+				"sha512": "b650fc75e33e4a1f035ef2deb3e833fddd6cf831a9d7fed15b71aa1642c1adaf4bcaf6b22c43938dccf6c0679225a0ddb0507a1b5bd68fe64df85ee524787888"
+			},
+			"env": {
+				"client": "required",
+				"server": "required"
+			},
+			"downloads": [
+				"https://cdn.modrinth.com/data/ha1mEyJS/versions/Cqy4sfYU/PlayerAnimationLibMerged-1.2.3%2Bmc.26.1.jar"
+			],
+			"fileSize": 417524
 		}
 	]
 }
